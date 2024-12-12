@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Lokhande</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
 <img  align="right" alt="conding" width="400" src="https://imgs.search.brave.com/3nfAfwvMZ5pXmun8bRUBJkdzdI7THDCgWTsbwAZdVxU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNM0ozT1RSMloy/NDBZbTg0YURscmFH/MW1NR2hpWnpobk1I/VXlZbWRsWkd3M01H/NW5aVGwyYlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunallokhande3969&label=Profile%20views&color=0e75b6&style=flat" alt="kunallokhande3969" /> </p>
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **kunallokhande3969@gmail.com**
 
